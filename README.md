@@ -1,2 +1,2 @@
 # hello-world
-per github guides
+Man, I kinda vaguely remember CVS?
